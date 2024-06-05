@@ -1,1 +1,2 @@
-lorem ipsu...
+lorem ipsu... Modificado local, vscode
+Texto agregado en local, vscode
