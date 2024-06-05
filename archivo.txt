@@ -1,2 +1,4 @@
 lorem ipsu... Modificado local, vscode
 Texto agregado en local, vscode
+lorem ipsu... Moficado en la nube, github
+Texto agregado en la nube, github
